@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Harshil Undhad
 
-<!--
-**HarshilUndhad/HarshilUndhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. IT (GTU) | 💻 Data Science & Machine Learning Enthusiast  
+🚀 Building real-world AI projects (RAG, Fraud Detection, NLP)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python, SQL (Basics)
+- Machine Learning (Scikit-learn)
+- Data Science (Pandas, NumPy)
+- NLP & AI (Embeddings, RAG, Whisper)
+- Tools: Git, Streamlit, Hugging Face
+
+---
+
+## 📌 Featured Projects
+- 🔍 **Multimodal RAG System**  
+  Retrieval-Augmented Generation using text + table chunks  
+
+- 💳 **Credit Card Fraud Detection**  
+  End-to-end ML pipeline with deployment
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/harshil-undhad/
+- Email: uharshil1513@gmail.com

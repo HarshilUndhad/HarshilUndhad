@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Skills
-- Python, SQL (Basics)
+- Python, SQL (Basics),fast-api
 - Machine Learning (Scikit-learn)
 - Data Science (Pandas, NumPy)
 - NLP & AI (Embeddings, RAG, Whisper)
@@ -15,8 +15,8 @@
 ---
 
 ## 📌 Featured Projects
-- 🔍 **Multimodal RAG System**  
-  Retrieval-Augmented Generation using text + table chunks  
+- 🔍 ** RAG System**  
+  Retrieval-Augmented Generation using text + audio  
 
 - 💳 **Credit Card Fraud Detection**  
   End-to-end ML pipeline with deployment

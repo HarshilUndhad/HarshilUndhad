@@ -1,28 +1,51 @@
-# Hi 👋, I'm Harshil Undhad
+# Harshil Undhad
 
-🎓 B.E. IT (GTU) | 💻 Data Science & Machine Learning Enthusiast  
-🚀 Building real-world AI projects (RAG, Fraud Detection, NLP)
+**Agentic AI & LLM Engineer** at Rodic Consultants, New Delhi.
 
----
+I build agent systems that read messy real-world documents, check what they find, and turn it into something a person can act on. Mostly Python, retrieval, and a lot of evaluation.
 
-## 🔧 Skills
-- Python, SQL (Basics),fast-api
-- Machine Learning (Scikit-learn)
-- Data Science (Pandas, NumPy)
-- NLP & AI (Embeddings, RAG, Whisper)
-- Tools: Git, Streamlit, Hugging Face
+[LinkedIn](https://linkedin.com/in/harshil-undhad/) · uharshil1513@gmail.com
 
 ---
 
-## 📌 Featured Projects
-- 🔍 ** RAG System**  
-  Retrieval-Augmented Generation using text + audio  
+## What I'm working on
 
-- 💳 **Credit Card Fraud Detection**  
-  End-to-end ML pipeline with deployment
+- Multi-agent pipelines for document extraction and automated reporting
+- Retrieval that holds up on real documents: tables, scans, inconsistent formatting
+- Keeping a human in the loop where the cost of a wrong answer is high
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/harshil-undhad/
-- Email: uharshil1513@gmail.com
+## Stack
+
+**Languages** Python · SQL
+
+**LLM & agents** RAG · embeddings · vector search · prompt and eval workflows · Whisper · Hugging Face
+
+**ML & data** scikit-learn · pandas · NumPy
+
+**Serving** FastAPI · Streamlit
+
+**Tooling** Git
+
+---
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Multimodal RAG** | Answers questions over a mixed corpus of text and audio. Whisper transcribes, embeddings retrieve, the model answers with sources attached. | Python, Whisper, embeddings, FastAPI |
+| **Credit Card Fraud Detection** | End-to-end pipeline on heavily imbalanced data — resampling, model selection, and a deployed prediction endpoint. | Python, scikit-learn, pandas |
+
+---
+
+## Background
+
+B.E. Information Technology, Gujarat Technological University (Ahmedabad Institute of Technology)
+
+---
+
+## Reach me
+
+**Email** uharshil1513@gmail.com
+**LinkedIn** [harshil-undhad](https://linkedin.com/in/harshil-undhad/)
